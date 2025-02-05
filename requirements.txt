@@ -1,5 +1,5 @@
 requests
-secrets
+pyOpenSSL
 uuid
 time
 MedoSigner
