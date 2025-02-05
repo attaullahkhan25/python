@@ -1,0 +1,14 @@
+requests
+secrets
+uuid
+time
+MedoSigner
+urllib3
+random
+user_agent
+httpx
+ms4
+threading
+string
+binascii
+concurrent.futures
